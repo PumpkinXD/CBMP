@@ -1,0 +1,16 @@
+name = "Pumpkin's Common Base Pack"
+author = "PumpkinXD"
+version = "0.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "bccd83247ff33d6cfc0c4dd943fe7fc72a0ed0ed7ce35d742f835835befd0108"
+
+[versions]
+fabric = "0.19.3"
+minecraft = "26.2"
+
+[options]
+acceptable-game-versions = ["26.2-rc-2"]

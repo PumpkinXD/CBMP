@@ -1,0 +1,13 @@
+name = "Log Cleaner Multi Loader"
+filename = "logcleaner-2.0.0-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/YUCKBQjM/versions/AQmtwWrg/logcleaner-2.0.0-fabric.jar"
+hash-format = "sha512"
+hash = "b8e4a70706d1b79c7a45e716791cca4c2f52528ce916b55ec058ce4a055b9335786ebfef58896efa8330e2a386dc30a5a7c6297aa02a7f3cb458250a4fbdddce"
+
+[update]
+[update.modrinth]
+mod-id = "YUCKBQjM"
+version = "AQmtwWrg"

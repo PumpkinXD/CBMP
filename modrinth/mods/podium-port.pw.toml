@@ -1,0 +1,13 @@
+name = "Podium Port"
+filename = "podium-fabric-2.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ftyr3eve/versions/BXE5PvpK/podium-fabric-2.0.0.jar"
+hash-format = "sha512"
+hash = "e2a518c29fedb5fd46a854e36424e47f4164cea2ae841ce864a2318382c480ea441af6d908fe34eb0c74b3236d6023a4fe7ccced982e93ceb77bee22d83b7020"
+
+[update]
+[update.modrinth]
+mod-id = "ftyr3eve"
+version = "BXE5PvpK"

@@ -1,0 +1,13 @@
+name = "Audio Engine Tweaks"
+filename = "audio_engine_tweaks-1.2.16+MC26.2 build 2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/DZ81JNQ1/versions/paeoSid4/audio_engine_tweaks-1.2.16%2BMC26.2%20build%202.jar"
+hash-format = "sha512"
+hash = "ed92a534c0287aacdf6213d745c1f9638eb8ef5e63af535121d7d4a6e44ad40314ab494d995f46ed275fe91b2602679fc662e1705047d61e042f79254a028d3b"
+
+[update]
+[update.modrinth]
+mod-id = "DZ81JNQ1"
+version = "paeoSid4"
