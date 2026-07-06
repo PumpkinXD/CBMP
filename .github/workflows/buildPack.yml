@@ -1,0 +1,31 @@
+name: Build Pack
+
+on:
+  workflow_dispatch:
+
+jobs:
+  export_pack:
+    name: Export Pack
+    runs-on: ubuntu-latest
+    steps:
+
+      - uses: actions/checkout@v3
+
+      - name: Setup Go environment
+        uses: actions/setup-go@v4.0.0
+
+      - name: Install Packwiz
+        run: go install github.com/packwiz/packwiz@latest
+
+      - name: Export modpack
+        run: |
+          cd modrinth
+          packwiz mr export
+          cd ..
+
+      - name: Upload MRPack artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: modpack-export
+          path: modrinth/*.mrpack
+          retention-days: 90
