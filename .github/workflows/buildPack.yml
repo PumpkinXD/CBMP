@@ -2,6 +2,11 @@ name: Build Pack
 
 on:
   workflow_dispatch:
+  push:
+    branches: [ "main" ]
+    paths:
+      - "modrinth/**"
+      - ".github/workflows/build-pack.yml"
 
 jobs:
   export_pack:
