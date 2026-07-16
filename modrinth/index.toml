@@ -27,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "159b583e8e5fa6934327438d3eb072777617bb1862c59f816ae9806e6d53e14b"
+hash = "27ac2b1ff7cae62fec1fcddfee074a9f935a5a47e11d7004ad923501b03f83e6"
 metafile = true
 
 [[files]]
@@ -52,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "b354e978ac188b1cf44325872560e74c5d674abf8c3a1ee067bc2cd82c4e96c3"
+hash = "c0f8dd38f84e89870316f0c65ba98bf43fbe38464f9b99ad65e2f06d8a3c1c63"
 metafile = true
 
 [[files]]
@@ -72,12 +72,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "7b9c5859f27094716924ae732771ef824ce77147f48570c64417422c747923b5"
+hash = "1b9e935845b8242b10f5be1e641b3307a3557083ba364b06af57f5e32ffec2b5"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "9d37d326d9557fdd25c97d72ac1bbd1e74c524aa5dca437a91d0de645dff6545"
+hash = "2a760e528bf27c3eb4ae7c06200d91ee9c2849295addaa2add05495c7dee9528"
 metafile = true
 
 [[files]]
@@ -102,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "41437a15f56b00994815f2bd2371ac84232cd7a1cc29688fe81480b44a935447"
+hash = "4558d459a64d360ef8954016a272f690b45e74fe8f078388a5a6329e5fa973f6"
 metafile = true
 
 [[files]]
@@ -172,7 +172,7 @@ metafile = true
 
 [[files]]
 file = "mods/obe.pw.toml"
-hash = "f56a5d2d63901eb66156de121b58de64d5b66ad221af2443221fe4bcd17b500a"
+hash = "349aafbd4cebd67bfce1d24452873c0e8d4d1a99e3a66da07b920f1d13b02919"
 metafile = true
 
 [[files]]
