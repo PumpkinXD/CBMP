@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/asynclogger.pw.toml"
-hash = "af03e16b5258f172ef87809640fe3833a78b14b418828db6088248a9bc381626"
+hash = "6b7341cdb14682c5ad5cec0bab41945b9252823c58e817c922d6838d73495039"
 metafile = true
 
 [[files]]
@@ -27,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "27ac2b1ff7cae62fec1fcddfee074a9f935a5a47e11d7004ad923501b03f83e6"
+hash = "1e7880ad0f619559721ed817073279c49fcbee8c579163ff4eaf755318a536e5"
 metafile = true
 
 [[files]]
@@ -72,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "1b9e935845b8242b10f5be1e641b3307a3557083ba364b06af57f5e32ffec2b5"
+hash = "dc5490cc1a9231b0d32ec3e72f9d34279fc1d1ff6fb5a7d288b1f36faec0a6a0"
 metafile = true
 
 [[files]]
@@ -82,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastserverpings.pw.toml"
-hash = "9db8aecc12a2e2109fc35b1ca6e2cf93bc5ea1055d2715ba3bf00adad0a53d04"
+hash = "41e3edce04cf1a9b47953e38120be8ec01f2d27d41baf4dad9dc231fcac95037"
 metafile = true
 
 [[files]]
@@ -97,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/gnetum.pw.toml"
-hash = "584dc0f365060c1593a8365578c5d8eb58c81c04ee7e79487b09c2245b2d2f9f"
+hash = "bc57c1b3761611327f9e5f9e81285e9a3076b46d568ec413db67ff028cf1718e"
 metafile = true
 
 [[files]]
@@ -172,7 +172,7 @@ metafile = true
 
 [[files]]
 file = "mods/obe.pw.toml"
-hash = "349aafbd4cebd67bfce1d24452873c0e8d4d1a99e3a66da07b920f1d13b02919"
+hash = "c4fa10fede43135a3fa22dedaed823970833fbd5896c5218c0004f99ddf9a4fb"
 metafile = true
 
 [[files]]
@@ -237,7 +237,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "da2b918e1ae55d1073b87bfc3236f37d106f80e0e295e99d374642f35531ada8"
+hash = "b08ea22923b8ccf2fbeb020cb532487be60c2dd75dd8e1c04e14deb66c118bba"
 metafile = true
 
 [[files]]
