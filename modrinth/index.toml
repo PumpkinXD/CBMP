@@ -191,8 +191,8 @@ hash = "b234ade7fd54bb9d99c27769cd1635b18835752676d0cdd0a29af2b4146251a8"
 metafile = true
 
 [[files]]
-file = "mods/podium-port.pw.toml"
-hash = "5ffc35144a7b3ceeef61f097106887189af49063a24a26ba814048a7120fb01e"
+file = "mods/podium.pw.toml"
+hash = "a30fbe25edea1ea78329178d3a13ae529439689dec68dbdce7a89cab9fc0cdaa"
 metafile = true
 
 [[files]]
