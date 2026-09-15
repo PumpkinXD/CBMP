@@ -7,12 +7,12 @@ metafile = true
 
 [[files]]
 file = "mods/asyncparticles.pw.toml"
-hash = "0b5867a730cb74a16403b8ffbc2d3ec0b0acdc370f5fc8a1f539756b602b32d6"
+hash = "f97eb789a85a05aba5fcbde5aa85d9318b7b270304efe71a757e148fdbaf47a3"
 metafile = true
 
 [[files]]
 file = "mods/audio-engine-tweaks.pw.toml"
-hash = "b5e9187ebde367d093ccad9af654dc099e48e9072466321741081dc64abfc39e"
+hash = "e80d4ba7f8daab3bc5e8c7947645223bfd49600f4a3f1c4ac44d80f9fe19c4ac"
 metafile = true
 
 [[files]]
@@ -27,12 +27,12 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "9a79a3cace0eb7f75a158582e805fa8d44409441dee9e6bcc83085d378ae30d4"
+hash = "1e889899cc4d5b00e41148e36f8baa860a82c2412b966090a866849aec821c4d"
 metafile = true
 
 [[files]]
 file = "mods/cape-provider.pw.toml"
-hash = "8428a739b5217911c2ae4b77c352b26351c04d1fce82ebf2a172edf84228e3e1"
+hash = "617d08ab09a27d54060faa2461c5121962c521163fa1a277d4033655831f7803"
 metafile = true
 
 [[files]]
@@ -67,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "fe17d2b9b63e19e1818f55d9d376aaec0c42c9fd9812d9a2f6d1c4160abd161b"
+hash = "84d6a2b87db74408c8fd2fd15792bad981ffbab43e1ee96b79aabded2604141c"
 metafile = true
 
 [[files]]
@@ -77,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "37069be1c7d23b2fe463a98297d1f12eb8875f0d3be651a3a6cadc868752ab5a"
+hash = "e3a8b560330802ec556f34a7de7a73bc712202359a657a36b39e6f85598bf8b8"
 metafile = true
 
 [[files]]
@@ -177,7 +177,7 @@ metafile = true
 
 [[files]]
 file = "mods/obe.pw.toml"
-hash = "f897d85e69303e8526d414bda5b01fd5474a215444276e8146b13edf0b6f51ec"
+hash = "086cdf01bb0698f1a74f1cfebd2cc157ea932fdb7a7cd599ef1be1d686641fca"
 metafile = true
 
 [[files]]
@@ -187,7 +187,7 @@ metafile = true
 
 [[files]]
 file = "mods/placeholder-api.pw.toml"
-hash = "b234ade7fd54bb9d99c27769cd1635b18835752676d0cdd0a29af2b4146251a8"
+hash = "4d3d2ad41a037af6f78e2a6c2908c4098bb0b5c03ad0d2711a0c0c6df5e7a172"
 metafile = true
 
 [[files]]
@@ -207,7 +207,7 @@ metafile = true
 
 [[files]]
 file = "mods/scalablelux.pw.toml"
-hash = "fda2f23dc5a311460c9a277922fbb94ccfd6adbde2b74cc395a467f51523b90f"
+hash = "e68b5b38494375e2d45a571b314ed3f65cc0b44e282bbeb03dc32e0202f51bf7"
 metafile = true
 
 [[files]]
@@ -227,7 +227,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "e0274d780169d81e54561b2c71ed188d6864f6bdf0d73c70ec351d925a9b2e18"
+hash = "54d699d9ba85bb08b9fd3696a11c7449ea1175a118805855143e1c88fa54aa6b"
 metafile = true
 
 [[files]]
@@ -237,7 +237,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "9d2d6dfc69a39361bb5d9e30c6c35c2ca7b8121ac0b66fad29bcfa81c40b0738"
+hash = "d9d97625ca8e65c474f373012b72c02dc6b8bce909d5acc91561bc4e3d0cb705"
 metafile = true
 
 [[files]]

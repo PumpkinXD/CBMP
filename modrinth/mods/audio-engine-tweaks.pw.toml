@@ -1,13 +1,13 @@
 name = "Audio Engine Tweaks"
-filename = "audio_engine_tweaks-1.2.16+MC26.2 build 2.jar"
+filename = "audio_engine_tweaks-1.2.16+MC26.3 build 2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/DZ81JNQ1/versions/paeoSid4/audio_engine_tweaks-1.2.16%2BMC26.2%20build%202.jar"
+url = "https://cdn.modrinth.com/data/DZ81JNQ1/versions/tvigy9QA/audio_engine_tweaks-1.2.16%2BMC26.3%20build%202.jar"
 hash-format = "sha512"
-hash = "ed92a534c0287aacdf6213d745c1f9638eb8ef5e63af535121d7d4a6e44ad40314ab494d995f46ed275fe91b2602679fc662e1705047d61e042f79254a028d3b"
+hash = "3300d6229a5a2153c77188fe11a11cc91d2650b3b5228dfcfd4c7089e6859bd617862e82e0019d930f30f566f997b922711701b3cba8ca5753fc0dd42581dfc8"
 
 [update]
 [update.modrinth]
 mod-id = "DZ81JNQ1"
-version = "paeoSid4"
+version = "tvigy9QA"
