@@ -27,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "67cd707b00e8a67a867a53bfb4da7a596ac80f3ff4bcbcd76fbfd40780600453"
+hash = "037a156dff9609bea2f09ff635fccb34df6814ca0383a506dfcaaa39622e27d9"
 metafile = true
 
 [[files]]
@@ -157,12 +157,12 @@ metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "68f5930c1212376b4b26a295c91dd5eb5c1157af1f95a18a5f8c06c4da7125cb"
+hash = "54019b98e621d0ab792d7a2de0f8f2714660e367790b17ffa0ac902344166396"
 metafile = true
 
 [[files]]
 file = "mods/no-chat-restrictions.pw.toml"
-hash = "cd6aeabd3b34437e61d3d1974eb2caa96eeec8a943dd5b65a525365e407a86fa"
+hash = "c31931e31508be2547b889254b8c4d1e4642b15fa39dc4894aad8ff6da3493ed"
 metafile = true
 
 [[files]]
@@ -172,12 +172,12 @@ metafile = true
 
 [[files]]
 file = "mods/noxesium.pw.toml"
-hash = "a85c1125856dee144fc1a58890e9d1eecdcb802279f3b5ca4f4fcb06ab6c3ccf"
+hash = "8a67a8ba37531741837eeb97597780532a0785ce56a9cbfc62d942e02e16bac1"
 metafile = true
 
 [[files]]
 file = "mods/obe.pw.toml"
-hash = "63a5b666453df1e6de2aced9bca034e524fe8731edbe37ab6ab095a0f647cfd1"
+hash = "3857fbbe0632e7b45dee43d587902d5e8d20cecb55612f3581b671902353170e"
 metafile = true
 
 [[files]]
@@ -197,7 +197,7 @@ metafile = true
 
 [[files]]
 file = "mods/quick-pack.pw.toml"
-hash = "115f6a0dd4674e39cd630a83c300703a4b9e58435b88d9211b73fd6e6a73d669"
+hash = "f099f10bf7926d341f30c46328f3735822c8990431400440e5ff3618ee9d4f4f"
 metafile = true
 
 [[files]]
@@ -232,7 +232,7 @@ metafile = true
 
 [[files]]
 file = "mods/tooltip-scroll.pw.toml"
-hash = "18918ea68ef6cc6c3f9a753547ebf8222a7ce0080843ee19ec485afc24f2f1fa"
+hash = "6788e0beddb0911d168c0d6cb298cc0df1478a0eea583f2a0d27636cfb263af1"
 metafile = true
 
 [[files]]
